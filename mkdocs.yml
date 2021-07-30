@@ -3,9 +3,9 @@ site_name: lingnickTang's 博客
 nav:
   - 首页: index.md
   - 关于: about.md
-  - 课程资料:  
+  - 学习课程资料:  
     - Missing Semester: course/missing_semester/Overview.md
-    
+
 theme:
   name: material
   feature:
@@ -51,7 +51,7 @@ markdown_extensions:
 #  - pymdownx.arithmatex  # 数学公式
   - pymdownx.betterem:  # 对加粗和斜体更好的检测
       smart_enable: all
-#  - pymdownx.emoji:  # 表情
+  - pymdownx.emoji:  # 表情
 #      emoji_generator: !!python/name:pymdownx.emoji.to_svg
 #  - pymdownx.magiclink  # 自动识别超链接
   - pymdownx.tasklist:  # 复选框checklist
