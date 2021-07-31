@@ -4,11 +4,13 @@
 >
 > 课程地址：https://missing.csail.mit.edu/
 >
-> 原视频地址：https://bit.ly/2OuWuh4
->
 > 搬运视频地址：https://www.bilibili.com/video/BV1x7411H7wa
 
-  
+
+
+### 课后练习  
+
+> 以下是博主做的课程配套练习，目前还在跟进中，答案仅供参考；如有错误或疏漏，还望拨冗指正，谢谢！
 
 1. [Course overview+the shell](1.Course overview+the shell.md)
 2. [Shell Tools and Scripting](2.Shell Tools and Scripting.md)
@@ -23,5 +25,5 @@
 
 
 
-以上是博主做的课程配套练习，目前还在跟进中，答案仅供参考；如有错误或疏漏，还望拨冗指正，谢谢！
+
 
