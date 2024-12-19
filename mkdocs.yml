@@ -56,3 +56,14 @@ markdown_extensions:
 #  - pymdownx.magiclink  # 自动识别超链接
   - pymdownx.tasklist:  # 复选框checklist
       custom_checkbox: true
+
+plugins:
+  - blog: # 设置blog
+      blog_dir: . # 设置blog对应的路径
+      blog_toc: true # 设置blog索引页面的目录
+      post_date_format: full # 设置blog索引页面的日期格式
+      archive_toc: true
+      categories_toc: true
+      pagination_format: "$link_first $link_previous ~2~ $link_next $link_last" # 设置blog索引页面的分页格式
+      pagination_keep_content: true # 设置blog索引页面的分页内容
+      draft_if_future_date: true # 设置如果blog的日期是未来的话，就会被当成草稿不会被发布
